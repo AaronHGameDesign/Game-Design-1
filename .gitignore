@@ -72,3 +72,29 @@ Plugins/**/Intermediate/*
 
 # Cache files for the editor to use
 DerivedDataCache/*
+Content/CommonHazel/Geometry/SimpleWind/SM_CommonHazel_Field_01.uasset
+Content/CommonHazel/Geometry/SimpleWind/SM_CommonHazel_Field_02.uasset
+Content/CommonHazel/Geometry/SimpleWind/SM_CommonHazel_Field_03.uasset
+Content/CommonHazel/Materials/Impostor/MAI_Impostor_CommonHazel.uasset
+Content/CommonHazel/Materials/Impostor/MI_Impostor_Field_01.uasset
+Content/CommonHazel/Materials/Impostor/MI_Impostor_Field_02.uasset
+Content/CommonHazel/Materials/Impostor/MI_Impostor_Field_03.uasset
+Content/CommonHazel/Textures/Impostor/Field/Field_01/T_Impostor_BaseColor_Field_01_Summer.uasset
+Content/CommonHazel/Textures/Impostor/Field/Field_01/T_Impostor_BaseColor_Field_01_Winter.uasset
+Content/CommonHazel/Textures/Impostor/Field/Field_01/T_Impostor_Normal_Field_01_Summer.uasset
+Content/CommonHazel/Textures/Impostor/Field/Field_01/T_Impostor_Normal_Field_01_Winter.uasset
+Content/CommonHazel/Textures/Impostor/Field/Field_02/T_Impostor_BaseColor_Field_02_Summer.uasset
+Content/CommonHazel/Textures/Impostor/Field/Field_02/T_Impostor_BaseColor_Field_02_Winter.uasset
+Content/CommonHazel/Textures/Impostor/Field/Field_02/T_Impostor_Normal_Field_02_Summer.uasset
+Content/CommonHazel/Textures/Impostor/Field/Field_02/T_Impostor_Normal_Field_02_Winter.uasset
+Content/CommonHazel/Textures/Impostor/Field/Field_03/T_Impostor_BaseColor_Field_03_Summer.uasset
+Content/CommonHazel/Textures/Impostor/Field/Field_03/T_Impostor_BaseColor_Field_03_Winter.uasset
+Content/CommonHazel/Textures/Impostor/Field/Field_03/T_Impostor_Normal_Field_03_Summer.uasset
+Content/CommonHazel/Textures/Impostor/Field/Field_03/T_Impostor_Normal_Field_03_Winter.uasset
+Content/CommonHazel/Textures/Tileable/T_CommonHazel_Albedo.uasset
+Content/CommonHazel/Textures/Tileable/T_CommonHazel_Mask.uasset
+Content/CommonHazel/Textures/Tileable/T_CommonHazel_Normal.uasset
+Content/CommonHazel/Textures/Twosided/Summer/T_CommonHazel_Twosided_Summer_Albedo.uasset
+Content/CommonHazel/Textures/Twosided/Summer/T_CommonHazel_Twosided_Summer_Mask.uasset
+Content/CommonHazel/Textures/Twosided/Summer/T_CommonHazel_Twosided_Summer_Normal.uasset
+Content/CommonHazel/Textures/Twosided/Winter/T_CommonHazel_Twosided_Winter_Albedo.uasset
